@@ -5,9 +5,12 @@ int main(){
     int população;
     
 
-    printf("Exibir mensagens na tela");
-    scanf("%d", &população);
-return 0;
+    printf("Entre com a população: \n");
+    scanf("%d" ,  &população);
+
+    printf("Exibição dados da cidades:\n");
+
+    return 0;
 
 }
 
