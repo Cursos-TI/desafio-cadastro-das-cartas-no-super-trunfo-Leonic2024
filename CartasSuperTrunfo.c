@@ -2,14 +2,18 @@
 
 
 int main(){
-    int população;
+int  Estado; (char)'A'
+" Código da carta";'A01' (char);
+"Nome da Cidade(char): São Paulo";
+"População(int): 12325000";
+"Área(float): 1521.11 km²";
+"PIB(float): 699.28 bilhões de reais";
+"Número de Pontos Turísticos(int)[50]";
+
+printf("Exibir mensagem na tela");
+scanf("%d " , &População);
     
-
-    printf("Entre com a população: \n");
-    scanf("%d" ,  &população);
-
-    printf("Exibição dados da cidades:\n");
-
+    
     return 0;
 
 }
